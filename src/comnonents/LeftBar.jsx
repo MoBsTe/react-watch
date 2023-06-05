@@ -17,7 +17,7 @@ const LeftBar = ({ watchCatalog }) => {
 
         <div>
             <div className='categories'>
-                <input type="text" />
+                <input type="text" placeholder='Search...'/>
                 <h2>Categories</h2>
                 <p>All</p>
                 <p>Dress</p>

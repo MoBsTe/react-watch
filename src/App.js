@@ -32,8 +32,14 @@ function App() {
     {
       id: 5,
       img: 'https://m.media-amazon.com/images/I/51kyjYuOZhL._AC_SL1000_.jpg',
-      Type: 'TYPES OF WATCHES BY FUNCTIONALITY ',
+      Type: 'AUTOMATIC WATCHES',
       Price: 500,
+    },
+    {
+      id: 6,
+      img: 'https://m.media-amazon.com/images/I/71e04Q53xlL._AC_UY879_.jpg',
+      Type: 'MECHANICAL WATCHES',
+      Price: 200,
     },
   ]
 
